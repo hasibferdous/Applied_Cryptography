@@ -3,6 +3,7 @@ from Crypto.Util.Padding import pad, unpad
 import os
 import time
 
+
 # Key definitions
 key_3des = b"042431301100123456789012"  # Updated 24-byte key for 3DES
 
